@@ -7,9 +7,10 @@ import { Link } from 'react-router-dom';
 export default function Navbar() {
   return (
     <nav className="desktop-nav flex justify-around items-center h-[17vh]">
+      
           <Link className='logo text-3xl lg:font-bold cursor-pointer' to="/" >EHSAN</Link>
+          {/* <div className="logo text-3xl lg:font-bold">EHSAN</div> */}
 
-        {/* <div className="logo text-3xl lg:font-bold">EHSAN</div> */}
         <div className="menu-items hidden lg:flex gap-x-10 text-2xl text-black">
                 <Desktop address={"/about"} content={"About"}/>
                 <Desktop address={"/experience"} content={"Experience"}/>

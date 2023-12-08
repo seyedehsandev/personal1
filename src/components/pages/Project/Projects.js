@@ -17,7 +17,7 @@ export default function Projects() {
 
         {/* <!-- -------  --> */}
         <Boldp title={"ToDo App Project"} img="./project-3.png" live={""} git={"https://github.com/seyedehsandev/todolist1"}/>
-        <Boldp title={"Personal portfolio(React)"} img="./project-2.png" live={"https://ecommerce-2-fawn.vercel.app/"} git={"https://github.com/seyedehsandev/ecommerce-2"}/>
+        <Boldp title={"Personal portfolio(React)"} img="./project-2.png" live={"https://personal1-alpha.vercel.app"} git={"https://github.com/seyedehsandev/personal1"}/>
 
     </div>
     {/* <ArrowBtn address={"#contact"}/> */}
