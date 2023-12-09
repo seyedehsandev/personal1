@@ -16,7 +16,7 @@ export default function Experience() {
             <ExpSkill title={"JavaScript"} level={"Intermediate"}/>
             <ExpSkill title={"React JS"} level={"Intermediate"}/>
             <ExpSkill title={"TypeScript"} level={"Intermediate"}/>
-            <ExpSkill title={"Tailwind CSS"} level={"Intermediate"}/>
+            <ExpSkill title={"Tailwind"} level={"Intermediate"}/>
 
         </ExpBox>
         <ExpBox >
